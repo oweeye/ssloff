@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+*.swp
+CMakeUserPresets.json
+build/*
+compile_commands.json
+dhparam.pem
+server.crt
+server.csr
+server.key
+server.pem
+ssloff

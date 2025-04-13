@@ -1,0 +1,11 @@
+[requires]
+gtest/1.15.0
+asio/1.32.0
+openssl/3.4.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
